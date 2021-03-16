@@ -1,2 +1,2 @@
 # the first time test
-### Welcome th Github
+### Welcome the Github
